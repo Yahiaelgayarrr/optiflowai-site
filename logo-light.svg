@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="128" viewBox="0 0 512 128" role="img" aria-label="OptiFlow AI">
+  <g transform="translate(10,16)" fill="#FFFFFF">
+    <rect x="0" y="16" width="28" height="28" rx="6"/>
+    <rect x="0" y="64" width="28" height="28" rx="6"/>
+    <rect x="48" y="40" width="28" height="28" rx="6"/>
+    <rect x="96" y="56" width="44" height="8" rx="4"/>
+    <path d="M140,40 L176,64 L140,88 Z"/>
+  </g>
+  <g font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif">
+    <text x="200" y="70" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">OptiFlow</text>
+    <text x="200" y="108" font-size="40" font-weight="400" fill="#58E6FF" letter-spacing="1">AI</text>
+  </g>
+</svg>
